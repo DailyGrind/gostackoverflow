@@ -1,5 +1,10 @@
 ### Install dependencies
 
+There are two third party dependecies
+
+* [philgebhardt/mdcat](https://github.com/philgebhardt/mdcat) (fork of [samfoo/mdcat](https://github.com/samfoo/mdcat))
+* [philgebhardt/Stack-on-Go](https://github.com/philgebhardt/Stack-on-Go/) (fork of [laktek/Stack-on-Go](https://github.com/laktek/Stack-on-Go))
+
 ```bash
 go get
 ```
